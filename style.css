@@ -6,6 +6,11 @@
 
 .cabecalho {
     background-color: rgb(72, 152, 255);
+    color:aquamarine;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .navegacao {
